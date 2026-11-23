@@ -1,3 +1,5 @@
+-------------------------------------------
+
 # Power BI Sales & Cohort Analysis Dashboard 📊✨🎉
 
 Welcome to the GitHub repository for my exciting Power BI project - a Sales and Customers Analysis Dashboard!!!
@@ -10,7 +12,7 @@ Welcome to the GitHub repository for my exciting Power BI project - a Sales and 
 
 ![Power BI Dashboard4](https://github.com/NickTimosh/PowerBI_Sales_and_Customers/assets/116592259/e78003b0-064e-4ea1-8003-1496d96ab2b2)
 
-## Data Source Description 📂
+## Data Source Description 
 
 This Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers. The data comes from a CSV file with approximately 1 million rows. 
 
